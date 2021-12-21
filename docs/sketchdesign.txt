@@ -1,0 +1,12 @@
+>>>general specs
+-binance api
+-google,facebook sign in
+-kripto paralarin goruntulendigi ana ekran
+-paritelerin arandigi ekran
+-kullanici profil ekrani
+-kullanici pariteleri favlayabilir
+-favladigi paritelere ifade ekleyebilir
+-uygulama biraz sosyal medya kafasinda
+-kullanicilar arasi arkadasliklar var(yapabilirsek)
+-arkadas olduklari insanlarla ortak paritelerini gorebilirler
+...
